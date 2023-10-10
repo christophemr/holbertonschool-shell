@@ -1,1 +1,1 @@
-rt# holbertonschool-shell
+# holbertonschool-shell
